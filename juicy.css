@@ -1,0 +1,48 @@
+/* body {
+
+} */
+#nav-link {
+    text-align: right;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    color: rgb(238, 36, 123);
+}
+h2 {
+    font-family: 'Syne Mono', monospace;
+    font-size: 16px;
+    color: rgb(224, 24, 111);
+}
+/* h5 {
+    font-family: 'Syne Mono', monospace;
+    font-size: 14px;
+    color: rgb(224, 24, 111);
+} */
+p {
+    font-family: 'Syne Mono', monospace; 
+}
+
+
+.syne {
+    font-family: 'Syne Mono', monospace;
+    font-size: large;
+}
+
+#joinme {
+    background-image: url('pomelo.jpg');
+
+}
+
+.container {
+    background-color: white;
+}
+
+.btn-danger{
+    background-color:rgb(224, 21, 111);
+}
+
+.btn-success{
+    background-color:rgb(16, 211, 233);
+
+}
